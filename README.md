@@ -7,7 +7,8 @@ I am based in Lisbon. I build small software I use myself.
 - [vTimers](https://vtimers.com) - free online timers. No account, no tracking. Pomodoro, Tabata, EMOM, stopwatch.
 - [goncaloalves.com](https://goncaloalves.com) - my blog. Astro, static, no JS. I write about the gap between frameworks and rooms with real budgets.
 - [gitglide.nvim](https://github.com/goncaloalves/gitglide.nvim) - Git in Neovim with AI commit messages that I actually keep.
-- [mxw-tray](https://github.com/goncaloalves/mxw-tray) / KSound-Monitor - little Linux tray tools for Glorious mice and audio. I got tired of opening settings.
+- [mxw-tray](https://github.com/goncaloalves/mxw-tray) - battery monitor and quick settings for Glorious wireless mice. KDE tray.
+- [KSound-Monitor](https://github.com/goncaloalves/KSound-Monitor) - audio output switcher for KDE. Tray icon follows the active sink.
 
 ### Where to find me
 
